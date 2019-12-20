@@ -17,3 +17,8 @@ This repo is for the final project of Fall 2019 EECS 6893 BIG DATA ANALYTICS cou
 </ul>
 
 ![method](https://github.com/lmxs1237/Understanding-Clouds-from-Satellite-Images/blob/master/images/method.png?raw=true)
+
+## Reference
+1. [segmentation_models](https://github.com/qubvel/segmentation_models)  
+2. [segmentation-in-pytorch-using-convenient-tools](https://www.kaggle.com/artgor/segmentation-in-pytorch-using-convenient-tools)  
+3. [satellite-clouds-u-net-with-resnet-encoder](https://www.kaggle.com/xhlulu/satellite-clouds-u-net-with-resnet-encoder)
